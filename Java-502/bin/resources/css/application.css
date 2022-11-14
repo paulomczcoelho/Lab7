@@ -1,0 +1,7 @@
+/* AnchoPane*/
+#anchorPane{
+    -fx-background-image:url('../css/ocean-3605547_960_720.jpg');
+}
+#login {
+    -fx-background-color: rgba(177, 170, 163, 0.427);
+}
